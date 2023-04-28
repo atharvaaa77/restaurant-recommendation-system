@@ -1,0 +1,8 @@
+bokeh
+seaborn
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
